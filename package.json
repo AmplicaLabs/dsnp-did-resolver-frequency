@@ -27,7 +27,7 @@
   "homepage": "https://github.com/AmplicaLabs/dsnp-did-resolver-frequency#readme",
   "dependencies": {
     "@dsnp/did-resolver": "^0.0.3",
-    "@dsnp/frequency-schemas": "^1.0.2",
+    "@dsnp/frequency-schemas": "../schemas/dist",
     "@frequency-chain/api-augment": "^1.9.0",
     "@polkadot/api": "^10.9.1",
     "avro-js": "^1.11.3",
